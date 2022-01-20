@@ -24,6 +24,8 @@ Consiste no cadastro de usuarios, com nome e e-mail, para fazer elogios usando T
 [] Cadasro de elogios
 
 - Não é permitido um usuario cadastrar um elogio para si
+- Não é permitido cadastrar elogios para usuarios inválidos
+- O usuário precisa estar autenticado na aplicação
 
 ### 🛠 Tecnologias
 
