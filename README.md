@@ -6,6 +6,25 @@
 
 ### 💻 Projeto
 
+Consiste no cadastro de usuarios, com nome e e-mail, para fazer elogios usando Tags
+
+## Regras
+
+[] Cadastro de usuário
+
+- Não é permitido cadastrar mais de um usuário com o mesmo e-mail
+- Não é permitido cadastras usuário sem e-mail
+
+[] Cadastro de Tag
+
+- Não é permitido cadastrar mais de uma tag com o mesmo nome
+- Náo é permitido cadastra tag sem nome
+- Não é permitido o cadastro por usuarios que n~çao sejam administradores
+
+[] Cadasro de elogios
+
+- Não é permitido um usuario cadastrar um elogio para si
+
 ### 🛠 Tecnologias
 
 https://www.npmjs.com/package/typeorm
