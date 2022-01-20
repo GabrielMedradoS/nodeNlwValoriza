@@ -8,7 +8,7 @@
 
 Consiste no cadastro de usuarios, com nome e e-mail, para fazer elogios usando Tags
 
-## Regras
+#### Regras
 
 [] Cadastro de usuário
 
