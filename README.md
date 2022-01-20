@@ -9,11 +9,12 @@
 ### 🛠 Tecnologias
 
 https://www.npmjs.com/package/typeorm
+https://dev.to/wandealves/migrations-com-typeorm-no-nodejs-4i80
 
 <div>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30" width="40"/>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
   alt="typescript" height="30" width="40"/>
 
