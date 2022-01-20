@@ -21,7 +21,7 @@ Consiste no cadastro de usuarios, com nome e e-mail, para fazer elogios usando T
 - Náo é permitido cadastra tag sem nome
 - Não é permitido o cadastro por usuarios que não sejam administradores
 
-[] Cadasro de elogios
+[] Cadastro de elogios
 
 - Não é permitido um usuario cadastrar um elogio para si
 - Não é permitido cadastrar elogios para usuarios inválidos
