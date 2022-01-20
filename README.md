@@ -10,12 +10,12 @@ Consiste no cadastro de usuarios, com nome e e-mail, para fazer elogios usando T
 
 #### Regras
 
-[] Cadastro de usuário
+[x] Cadastro de usuário
 
 - Não é permitido cadastrar mais de um usuário com o mesmo e-mail
 - Não é permitido cadastras usuário sem e-mail
 
-[] Cadastro de Tag
+[x] Cadastro de Tag
 
 - Não é permitido cadastrar mais de uma tag com o mesmo nome
 - Náo é permitido cadastra tag sem nome
