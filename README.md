@@ -19,7 +19,7 @@ Consiste no cadastro de usuarios, com nome e e-mail, para fazer elogios usando T
 
 - Não é permitido cadastrar mais de uma tag com o mesmo nome
 - Náo é permitido cadastra tag sem nome
-- Não é permitido o cadastro por usuarios que n~çao sejam administradores
+- Não é permitido o cadastro por usuarios que não sejam administradores
 
 [] Cadasro de elogios
 
