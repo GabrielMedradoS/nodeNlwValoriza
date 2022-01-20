@@ -29,8 +29,8 @@ Consiste no cadastro de usuarios, com nome e e-mail, para fazer elogios usando T
 
 ### 🛠 Tecnologias
 
-https://www.npmjs.com/package/typeorm
-https://dev.to/wandealves/migrations-com-typeorm-no-nodejs-4i80
+- https://www.npmjs.com/package/typeorm
+- https://dev.to/wandealves/migrations-com-typeorm-no-nodejs-4i80
 
 <div>
 
