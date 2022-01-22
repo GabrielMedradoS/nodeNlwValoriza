@@ -32,7 +32,7 @@ class AuthenticateUserService {
       {
         email: user.email,
       },
-      "1e5c2308984a1d7b16e187448bdc96e4",
+      process.env.MD5_HASH,
       {
         subject: user.id,
         expiresIn: "1d",
