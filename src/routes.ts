@@ -4,6 +4,7 @@ import { CreateTagController } from "./controllers/CreateTagController";
 import { ensureAdmin } from "./middlewares/ensureAdmin";
 import { AuthenticateUserController } from "./controllers/AuthenticateUserController";
 import { CreateComplimentController } from "./controllers/CreateComplimentController";
+import { ensureAutheticated } from "./middlewares/ensureAuthenticated";
 
 const router = Router();
 
@@ -12,7 +13,12 @@ const createTagController = new CreateTagController();
 const authenticateUserController = new AuthenticateUserController();
 const createComplimentController = new CreateComplimentController();
 
-router.post("/tags", ensureAdmin, createTagController.handle);
+router.post(
+  "/tags",
+  ensureAutheticated,
+  ensureAdmin,
+  createTagController.handle
+);
 
 /* se colocasse dessa forma, todas as rotas abaixo usariam o middleware
 router.use(ensureAdmin); 
@@ -20,6 +26,10 @@ para isso n acontecer isso coloco o ensure admin da rota /tags */
 
 router.post("/users", createUserController.handle);
 router.post("/login", authenticateUserController.handle);
-router.post("/compliments", createComplimentController.handle);
+router.post(
+  "/compliments",
+  ensureAutheticated,
+  createComplimentController.handle
+);
 
 export { router };
