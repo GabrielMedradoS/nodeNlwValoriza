@@ -1,10 +1,15 @@
 ## nlw-Valoriza
+<p align="center">
+    <a href="#projeto-">Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#tecnologias-">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#licença-%EF%B8%8F">Licença</a>
+</p>
 
 <div>
   <img src=".github/" alt="" width="100%"> 
 </div>
 
-### 💻 Projeto
+### Projeto 💻
 
 Consiste no cadastro de usuarios, com nome e e-mail, para fazer elogios usando Tags
 
@@ -27,10 +32,10 @@ Consiste no cadastro de usuarios, com nome e e-mail, para fazer elogios usando T
 - Não é permitido cadastrar elogios para usuarios inválidos
 - O usuário precisa estar autenticado na aplicação
 
-### 🛠 Tecnologias
+## Tecnologias 🛠
 
-- https://www.npmjs.com/package/typeorm
-- https://dev.to/wandealves/migrations-com-typeorm-no-nodejs-4i80
+- [typeorm | Start](https://www.npmjs.com/package/typeorm)
+- [typeorm | Migrations](https://dev.to/wandealves/migrations-com-typeorm-no-nodejs-4i80)
 
 <div>
 
@@ -41,9 +46,13 @@ Consiste no cadastro de usuarios, com nome e e-mail, para fazer elogios usando T
 
 </div>
 
-### ✍🏾 Autor
+## Licença ⚖️
+This project is under the MIT license. See the archive [LICENSE](https://github.com/GabrielMedradoS/letmeask---NLW-Together/blob/master/License) for more details.
 
-<a  href="https://github.com/gabrielmedrados/">
-<img src="https://user-images.githubusercontent.com/73303001/126536001-655e3cbd-facd-4de1-992f-b8d9d3656ace.jpg" width="80px" alt="perfil"/>
-  <p>Gabriel Medrado</p>
-</a>
+## Autor ✍🏾
+
+| <a  href="https://github.com/gabrielmedrados/"><img src="https://user-images.githubusercontent.com/73303001/126536001-655e3cbd-facd-4de1-992f-b8d9d3656ace.jpg" width="100" alt="perfil"/><br><sub>Gabriel Medrado</sub></a>|
+| :---: |
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-GabrielMedrado-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-medrado-de-souza-9a30b3206/)
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.medradoo@hotmail.com-1769ff?style=flat-square&logo=Gmail&logoColor=white)](mailto:gabriel.medradoo@hotmail.com)
