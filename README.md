@@ -1,5 +1,16 @@
 ## nlw-Valoriza
 <p align="center">
+    <img alt="Platform" src="https://img.shields.io/static/v1?label=Platform&message=PC&color=blue&labelColor=white">
+    <a href="">
+        <img src="https://img.shields.io/badge/Trilha node-NLW Valoriza-blue?&labelColor=white"></img>
+    </a>
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/GabrielMedradoS/nodeNlwValoriza?color=blue&labelColor=white">
+    <a href="https://github.com/GabrielMedradoS/nodeNlwValoriza/blob/master/License">
+        <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=blue&labelColor=white">
+    </a>
+</p>
+
+<p align="center">
     <a href="#projeto-">Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#tecnologias-">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#licença-%EF%B8%8F">Licença</a>
